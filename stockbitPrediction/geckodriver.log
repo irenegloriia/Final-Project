@@ -1,0 +1,842 @@
+1620795742751	geckodriver	INFO	Listening on 127.0.0.1:64669
+1620795743653	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fs/910gnb515jj6xym8tmybvj_40000gn/T/rust_mozprofileCTJDkU"
+1620795746067	Marionette	INFO	Listening on port 64674
+1620795746157	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript warning: https://cdn.zarget.com/144446/337134.js, line 3: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1620795895938	geckodriver	INFO	Listening on 127.0.0.1:64810
+1620795896803	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fs/910gnb515jj6xym8tmybvj_40000gn/T/rust_mozprofilewStw5H"
+1620795899129	Marionette	INFO	Listening on port 64815
+1620795899210	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript warning: https://cdn.zarget.com/144446/337134.js, line 3: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1620795993759	geckodriver	INFO	Listening on 127.0.0.1:64959
+1620795994613	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fs/910gnb515jj6xym8tmybvj_40000gn/T/rust_mozprofile0Y4nwG"
+1620795997031	Marionette	INFO	Listening on port 64964
+1620795997142	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript warning: https://cdn.zarget.com/144446/337134.js, line 3: unreachable code after return statement
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0146,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xB60006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1620796024941	Marionette	INFO	Stopped listening on port 64964
+1620796026181	Marionette	INFO	Stopped listening on port 64815
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620796027078	Marionette	INFO	Stopped listening on port 64674
+1620796041676	geckodriver	INFO	Listening on 127.0.0.1:65053
+1620796043560	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fs/910gnb515jj6xym8tmybvj_40000gn/T/rust_mozprofileNpC5wr"
+1620796045675	Marionette	INFO	Listening on port 65062
+1620796045768	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1620796085444	geckodriver	INFO	Listening on 127.0.0.1:65110
+1620796086292	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fs/910gnb515jj6xym8tmybvj_40000gn/T/rust_mozprofilern6yZ8"
+1620796088377	Marionette	INFO	Listening on port 65116
+1620796088487	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript warning: https://cdn.zarget.com/144446/337134.js, line 3: unreachable code after return statement
+1620796126316	geckodriver	INFO	Listening on 127.0.0.1:65250
+1620796127173	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fs/910gnb515jj6xym8tmybvj_40000gn/T/rust_mozprofileGmYrw8"
+1620796129285	Marionette	INFO	Listening on port 65255
+1620796129369	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript warning: https://cdn.zarget.com/144446/337134.js, line 3: unreachable code after return statement
+1620796137502	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1620796296216	geckodriver	INFO	Listening on 127.0.0.1:65402
+1620796297079	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fs/910gnb515jj6xym8tmybvj_40000gn/T/rust_mozprofile414VrX"
+1620796299305	Marionette	INFO	Listening on port 65407
+1620796299378	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript warning: https://cdn.zarget.com/144446/337134.js, line 3: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+console.warn: (new Error("Protocol error (noSuchActor): No such actor for ID: server0.conn0.child3/accessible436 from: server0.conn0.child3/accessible436", "resource://devtools/shared/protocol/Front.js", 361))
+console.warn: (new Error("Protocol error (noSuchActor): No such actor for ID: server0.conn0.child3/accessible436 from: server0.conn0.child3/accessible436", "resource://devtools/shared/protocol/Front.js", 361))
+console.warn: (new Error("Protocol error (noSuchActor): No such actor for ID: server0.conn0.child3/accessible436 from: server0.conn0.child3/accessible436", "resource://devtools/shared/protocol/Front.js", 361))
+1620796406147	geckodriver	INFO	Listening on 127.0.0.1:49159
+1620796408098	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fs/910gnb515jj6xym8tmybvj_40000gn/T/rust_mozprofilevOyK8o"
+1620796410405	Marionette	INFO	Listening on port 49166
+1620796410500	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript warning: https://cdn.zarget.com/144446/337134.js, line 3: unreachable code after return statement
+1620796418497	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1620796419368	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1620796542652	geckodriver	INFO	Listening on 127.0.0.1:49305
+1620796544613	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fs/910gnb515jj6xym8tmybvj_40000gn/T/rust_mozprofileR38Sov"
+1620796547225	Marionette	INFO	Listening on port 49312
+1620796547330	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1620796623528	geckodriver	INFO	Listening on 127.0.0.1:49426
+1620796624393	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fs/910gnb515jj6xym8tmybvj_40000gn/T/rust_mozprofile7fVz7a"
+1620796626566	Marionette	INFO	Listening on port 49431
+1620796626604	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620796657550	Marionette	INFO	Stopped listening on port 65116
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620796659832	Marionette	INFO	Stopped listening on port 65255
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230033,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0146,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xB60006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1620796661898	Marionette	INFO	Stopped listening on port 65407
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620796664454	Marionette	INFO	Stopped listening on port 49166
+1620796687186	Marionette	INFO	Stopped listening on port 49431
+1620796688992	geckodriver	INFO	Listening on 127.0.0.1:49479
+1620796689842	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fs/910gnb515jj6xym8tmybvj_40000gn/T/rust_mozprofiletgToPz"
+1620796692025	Marionette	INFO	Listening on port 49484
+1620796692141	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript warning: https://cdn.zarget.com/144446/337134.js, line 3: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1620797054296	geckodriver	INFO	Listening on 127.0.0.1:49659
+1620797055178	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fs/910gnb515jj6xym8tmybvj_40000gn/T/rust_mozprofilehxTS10"
+1620797057293	Marionette	INFO	Listening on port 49664
+1620797057375	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://stockbit.com/assets/js/primus.min.js, line 1: Error: INVALID_STATE_ERR
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+1620802238884	Marionette	INFO	Stopped listening on port 49664
+1620802240392	Marionette	INFO	Stopped listening on port 49484
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620802260613	geckodriver	INFO	Listening on 127.0.0.1:49957
+1620802262506	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fs/910gnb515jj6xym8tmybvj_40000gn/T/rust_mozprofiley0KJ8W"
+1620802264671	Marionette	INFO	Listening on port 49965
+1620802264708	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript warning: https://cdn.zarget.com/144446/337134.js, line 3: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1620802280928	geckodriver	INFO	Listening on 127.0.0.1:50036
+1620802281788	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fs/910gnb515jj6xym8tmybvj_40000gn/T/rust_mozprofileaI2JEg"
+1620802283833	Marionette	INFO	Listening on port 50041
+1620802283879	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript warning: https://cdn.zarget.com/144446/337134.js, line 3: unreachable code after return statement
+1620802291172	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1620802291982	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1620802310007	geckodriver	INFO	Listening on 127.0.0.1:50167
+1620802310872	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fs/910gnb515jj6xym8tmybvj_40000gn/T/rust_mozprofilezzYwK0"
+1620802312924	Marionette	INFO	Listening on port 50172
+1620802312968	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript warning: https://cdn.zarget.com/144446/337134.js, line 3: unreachable code after return statement
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1620802343131	geckodriver	INFO	Listening on 127.0.0.1:50261
+1620802343987	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fs/910gnb515jj6xym8tmybvj_40000gn/T/rust_mozprofileUwV4ui"
+1620802346111	Marionette	INFO	Listening on port 50266
+1620802346169	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript warning: https://cdn.zarget.com/144446/337134.js, line 3: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1620802374964	geckodriver	INFO	Listening on 127.0.0.1:50383
+1620802375832	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fs/910gnb515jj6xym8tmybvj_40000gn/T/rust_mozprofileTh5239"
+1620802378131	Marionette	INFO	Listening on port 50388
+1620802378235	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript warning: https://cdn.zarget.com/144446/337134.js, line 3: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1620802880111	geckodriver	INFO	Listening on 127.0.0.1:50590
+1620802882063	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fs/910gnb515jj6xym8tmybvj_40000gn/T/rust_mozprofiledTWVv2"
+1620802884469	Marionette	INFO	Listening on port 50597
+1620802884571	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript warning: https://cdn.zarget.com/144446/337134.js, line 3: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1620802979201	geckodriver	INFO	Listening on 127.0.0.1:50729
+1620802980104	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fs/910gnb515jj6xym8tmybvj_40000gn/T/rust_mozprofilewZ31iF"
+1620802982332	Marionette	INFO	Listening on port 50735
+1620802982420	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1620803053675	geckodriver	INFO	Listening on 127.0.0.1:50803
+1620803054543	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fs/910gnb515jj6xym8tmybvj_40000gn/T/rust_mozprofileMOR73a"
+1620803056761	Marionette	INFO	Listening on port 50808
+1620803056838	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1620803110734	Marionette	INFO	Stopped listening on port 50808
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 831: NotAllowedError: Shutting down and refusing additional I/O tasks
+1620803113375	geckodriver	INFO	Listening on 127.0.0.1:50876
+1620803114242	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fs/910gnb515jj6xym8tmybvj_40000gn/T/rust_mozprofiledAHVqa"
+1620803116388	Marionette	INFO	Listening on port 50881
+1620803116432	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript warning: https://cdn.zarget.com/144446/337134.js, line 3: unreachable code after return statement
+1620803182871	Marionette	INFO	Stopped listening on port 50881
+1620803183392	Marionette	INFO	Stopped listening on port 50597
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620803184079	Marionette	INFO	Stopped listening on port 50388
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620803184468	Marionette	INFO	Stopped listening on port 50266
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620803185185	Marionette	INFO	Stopped listening on port 50041
+1620803187088	geckodriver	INFO	Listening on 127.0.0.1:50981
+1620803188983	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fs/910gnb515jj6xym8tmybvj_40000gn/T/rust_mozprofilecxCUUk"
+1620803191101	Marionette	INFO	Listening on port 50988
+1620803191178	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript warning: https://cdn.zarget.com/144446/337134.js, line 3: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1620803294378	geckodriver	INFO	Listening on 127.0.0.1:51132
+1620803295236	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fs/910gnb515jj6xym8tmybvj_40000gn/T/rust_mozprofilez6GRom"
+1620803297262	Marionette	INFO	Listening on port 51137
+1620803297338	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript warning: https://cdn.zarget.com/144446/337134.js, line 3: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1620803409368	geckodriver	INFO	Listening on 127.0.0.1:51278
+1620803410267	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fs/910gnb515jj6xym8tmybvj_40000gn/T/rust_mozprofileGTnd5H"
+1620803412660	Marionette	INFO	Listening on port 51283
+1620803412679	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript warning: https://cdn.zarget.com/144446/337134.js, line 3: unreachable code after return statement
+1620803421152	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1620803421891	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1620803437917	Marionette	INFO	Stopped listening on port 51283
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620803438447	Marionette	INFO	Stopped listening on port 51137
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620803439190	Marionette	INFO	Stopped listening on port 50988
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620803443702	geckodriver	INFO	Listening on 127.0.0.1:51422
+1620803445605	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fs/910gnb515jj6xym8tmybvj_40000gn/T/rust_mozprofileKXd5F2"
+1620803447767	Marionette	INFO	Listening on port 51429
+1620803447812	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript warning: https://cdn.zarget.com/144446/337134.js, line 3: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1620803497360	geckodriver	INFO	Listening on 127.0.0.1:51556
+1620803498226	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fs/910gnb515jj6xym8tmybvj_40000gn/T/rust_mozprofileRkOje0"
+1620803500275	Marionette	INFO	Listening on port 51561
+1620803500320	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript warning: https://cdn.zarget.com/144446/337134.js, line 3: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1620803631933	geckodriver	INFO	Listening on 127.0.0.1:51700
+1620803632793	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fs/910gnb515jj6xym8tmybvj_40000gn/T/rust_mozprofilesfRFPX"
+1620803634875	Marionette	INFO	Listening on port 51705
+1620803635007	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript warning: https://cdn.zarget.com/144446/337134.js, line 3: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1620803713922	geckodriver	INFO	Listening on 127.0.0.1:51815
+1620803714833	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fs/910gnb515jj6xym8tmybvj_40000gn/T/rust_mozprofileqVMdNV"
+1620803717235	Marionette	INFO	Listening on port 51820
+1620803717348	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript warning: https://cdn.zarget.com/144446/337134.js, line 3: unreachable code after return statement
+1620803726744	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1620803727511	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1620803899722	geckodriver	INFO	Listening on 127.0.0.1:51956
+1620803901685	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fs/910gnb515jj6xym8tmybvj_40000gn/T/rust_mozprofileRyfCMo"
+1620803904032	Marionette	INFO	Listening on port 51963
+1620803904100	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript warning: https://cdn.zarget.com/144446/337134.js, line 3: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1620804067418	geckodriver	INFO	Listening on 127.0.0.1:52098
+1620804069395	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fs/910gnb515jj6xym8tmybvj_40000gn/T/rust_mozprofileB4m6tS"
+1620804071710	Marionette	INFO	Listening on port 52105
+1620804071791	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript warning: https://cdn.zarget.com/144446/337134.js, line 3: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1620804095082	geckodriver	INFO	Listening on 127.0.0.1:52240
+1620804095942	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fs/910gnb515jj6xym8tmybvj_40000gn/T/rust_mozprofileFfRb5N"
+1620804098155	Marionette	INFO	Listening on port 52246
+1620804098248	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript warning: https://cdn.zarget.com/144446/337134.js, line 3: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1620804139081	Marionette	INFO	Stopped listening on port 52246
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1620804139407	Marionette	INFO	Stopped listening on port 51963
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620804140019	Marionette	INFO	Stopped listening on port 51820
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620804140390	Marionette	INFO	Stopped listening on port 52105
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230033,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0146,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xB60006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0146,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xB60006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1620804140828	Marionette	INFO	Stopped listening on port 51705
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620804141599	Marionette	INFO	Stopped listening on port 51561
+1620804142004	Marionette	INFO	Stopped listening on port 51429
+1620804144261	geckodriver	INFO	Listening on 127.0.0.1:52397
+1620804146169	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fs/910gnb515jj6xym8tmybvj_40000gn/T/rust_mozprofileBcskKq"
+1620804148389	Marionette	INFO	Listening on port 52404
+1620804148466	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript warning: https://cdn.zarget.com/144446/337134.js, line 3: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1620804294933	geckodriver	INFO	Listening on 127.0.0.1:52529
+1620804295792	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fs/910gnb515jj6xym8tmybvj_40000gn/T/rust_mozprofileAe8xg4"
+1620804297854	Marionette	INFO	Listening on port 52534
+1620804297886	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript warning: https://cdn.zarget.com/144446/337134.js, line 3: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1620804374064	geckodriver	INFO	Listening on 127.0.0.1:52688
+1620804374939	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fs/910gnb515jj6xym8tmybvj_40000gn/T/rust_mozprofilemmMpPi"
+1620804377119	Marionette	INFO	Listening on port 52693
+1620804377240	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript warning: https://cdn.zarget.com/144446/337134.js, line 3: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1620804470315	geckodriver	INFO	Listening on 127.0.0.1:52859
+1620804471173	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fs/910gnb515jj6xym8tmybvj_40000gn/T/rust_mozprofileb2Ope4"
+1620804473384	Marionette	INFO	Listening on port 52864
+1620804473480	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript warning: https://cdn.zarget.com/144446/337134.js, line 3: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1620804575873	geckodriver	INFO	Listening on 127.0.0.1:52993
+1620804576779	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fs/910gnb515jj6xym8tmybvj_40000gn/T/rust_mozprofiletv9T1M"
+1620804579326	Marionette	INFO	Listening on port 52998
+1620804579395	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript warning: https://cdn.zarget.com/144446/337134.js, line 3: unreachable code after return statement
+1620804587889	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1620804589062	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1620804724962	geckodriver	INFO	Listening on 127.0.0.1:53131
+1620804726908	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fs/910gnb515jj6xym8tmybvj_40000gn/T/rust_mozprofileatBWb3"
+1620804729537	Marionette	INFO	Listening on port 53138
+1620804729653	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript warning: https://cdn.zarget.com/144446/337134.js, line 3: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1620805193060	geckodriver	INFO	Listening on 127.0.0.1:53289
+1620805195088	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fs/910gnb515jj6xym8tmybvj_40000gn/T/rust_mozprofileBv9js9"
+1620805198063	Marionette	INFO	Listening on port 53297
+1620805198152	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript warning: https://cdn.zarget.com/144446/337134.js, line 3: unreachable code after return statement
+JavaScript error: https://stockbit.com/assets/js/primus.min.js, line 1: Error: INVALID_STATE_ERR
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: https://stockbit.com/assets/js/primus.min.js, line 1: Error: INVALID_STATE_ERR
+1620805376797	geckodriver	INFO	Listening on 127.0.0.1:53516
+1620805378703	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fs/910gnb515jj6xym8tmybvj_40000gn/T/rust_mozprofilehAaHYl"
+1620805380978	Marionette	INFO	Listening on port 53523
+1620805381015	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript warning: https://cdn.zarget.com/144446/337134.js, line 3: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1620805409512	geckodriver	INFO	Listening on 127.0.0.1:53641
+1620805410420	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fs/910gnb515jj6xym8tmybvj_40000gn/T/rust_mozprofileXabBXK"
+1620805412667	Marionette	INFO	Listening on port 53646
+1620805412729	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript warning: https://cdn.zarget.com/144446/337134.js, line 3: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1620805467480	geckodriver	INFO	Listening on 127.0.0.1:53781
+1620805469438	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fs/910gnb515jj6xym8tmybvj_40000gn/T/rust_mozprofileXhcCbW"
+1620805472257	Marionette	INFO	Listening on port 53788
+1620805472299	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript warning: https://cdn.zarget.com/144446/337134.js, line 3: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1620805676460	geckodriver	INFO	Listening on 127.0.0.1:53944
+1620805678404	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fs/910gnb515jj6xym8tmybvj_40000gn/T/rust_mozprofilerQ2CUm"
+1620805681019	Marionette	INFO	Listening on port 53951
+1620805681145	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript warning: https://cdn.zarget.com/144446/337134.js, line 3: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1620805699334	Marionette	INFO	Stopped listening on port 53951
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620805699934	Marionette	INFO	Stopped listening on port 53788
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620805700417	Marionette	INFO	Stopped listening on port 53646
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620805701163	Marionette	INFO	Stopped listening on port 53523
+1620805701777	Marionette	INFO	Stopped listening on port 53297
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620805702353	Marionette	INFO	Stopped listening on port 53138
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0146,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xB60006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0146,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xB60006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1620805702755	Marionette	INFO	Stopped listening on port 52998
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230033,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0146,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xB60006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0146,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xB60006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1620805703273	Marionette	INFO	Stopped listening on port 52864
+1620805703741	Marionette	INFO	Stopped listening on port 52693
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620805704310	Marionette	INFO	Stopped listening on port 52534
+1620805704868	Marionette	INFO	Stopped listening on port 52404
+1620805722583	geckodriver	INFO	Listening on 127.0.0.1:54083
+1620805723481	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fs/910gnb515jj6xym8tmybvj_40000gn/T/rust_mozprofileyjTQad"
+1620805725581	Marionette	INFO	Listening on port 54088
+1620805725678	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript warning: https://cdn.zarget.com/144446/337134.js, line 3: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1620805772575	geckodriver	INFO	Listening on 127.0.0.1:54213
+1620805773426	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fs/910gnb515jj6xym8tmybvj_40000gn/T/rust_mozprofileNZz6PJ"
+1620805775515	Marionette	INFO	Listening on port 54218
+1620805775637	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript warning: https://cdn.zarget.com/144446/337134.js, line 3: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1620805866997	geckodriver	INFO	Listening on 127.0.0.1:54342
+1620805867852	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fs/910gnb515jj6xym8tmybvj_40000gn/T/rust_mozprofileLGtLxM"
+1620805869994	Marionette	INFO	Listening on port 54347
+1620805870053	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript warning: https://cdn.zarget.com/144446/337134.js, line 3: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: https://www.youtube.com/s/player/8fd60c09/player_ias.vflset/en_US/base.js, line 789: uncaught exception: [object Object]
+JavaScript error: https://www.youtube.com/s/player/8fd60c09/player_ias.vflset/en_US/base.js, line 789: uncaught exception: [object Object]
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/page-style.js:1002:5\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2305))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2305))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn1.child3/pagestyle27 (resource://devtools/server/actors/page-style.js:1002:5)", "resource://devtools/shared/protocol/Front.js", 361))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2305))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2305))
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript warning: https://cdn.zarget.com/144446/337134.js, line 3: unreachable code after return statement
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript error: https://stockbit.com/#/ line 869 > injectedScript, line 1: ReferenceError: FB is not defined
+JavaScript warning: https://cdn.zarget.com/144446/337134.js, line 3: unreachable code after return statement
+JavaScript warning: https://stockbit.com/assets/js/jquery-2.2.4.min.js, line 3: Script terminated by timeout at:
+pixelMarginRight@https://stockbit.com/assets/js/jquery-2.2.4.min.js:3:17685
+Fa@https://stockbit.com/assets/js/jquery-2.2.4.min.js:3:18309
+css@https://stockbit.com/assets/js/jquery-2.2.4.min.js:3:21105
+get@https://stockbit.com/assets/js/jquery-2.2.4.min.js:3:21303
+css@https://stockbit.com/assets/js/jquery-2.2.4.min.js:3:21077
+n.fn[d]/<@https://stockbit.com/assets/js/jquery-2.2.4.min.js:4:20841
+K@https://stockbit.com/assets/js/jquery-2.2.4.min.js:2:30488
+n.fn[d]@https://stockbit.com/assets/js/jquery-2.2.4.min.js:4:20612
+a@https://stockbit.com/assets/js/readmore.min.js:11:447
+init@https://stockbit.com/assets/js/readmore.min.js:11:2078
+o@https://stockbit.com/assets/js/readmore.min.js:11:1333
+t.fn.readmore/<@https://stockbit.com/assets/js/readmore.min.js:11:3584
+each@https://stockbit.com/assets/js/jquery-2.2.4.min.js:2:2861
+each@https://stockbit.com/assets/js/jquery-2.2.4.min.js:2:845
+t.fn.readmore@https://stockbit.com/assets/js/readmore.min.js:11:3452
+t.bind_readmore_link@https://webchunk.stockbit.com/ID/bundle.js:1:1486697
+value@https://webchunk.stockbit.com/ID/stream.chunk.js:1:3065197
+mountComponent/</<@https://webchunk.stockbit.com/ID/bundle.js:1:2073292
+c@https://webchunk.stockbit.com/ID/bundle.js:1:2068704
+mountComponent/<@https://webchunk.stockbit.com/ID/bundle.js:1:2073271
+c</e.prototype.notifyAll@https://webchunk.stockbit.com/ID/bundle.js:1:1370449
+close@https://webchunk.stockbit.com/ID/bundle.js:1:2093313
+closeAll@https://webchunk.stockbit.com/ID/bundle.js:1:603537
+perform@https://webchunk.stockbit.com/ID/bundle.js:1:602923
+perform@https://webchunk.stockbit.com/ID/bundle.js:1:602840
+perform@https://webchunk.stockbit.com/ID/bundle.js:1:250724
+A@https://webchunk.stockbit.com/ID/bundle.js:1:250893
+closeAll@https://webchunk.stockbit.com/ID/bundle.js:1:603537
+perform@https://webchunk.stockbit.com/ID/bundle.js:1:602923
+batchedUpdates@https://webchunk.stockbit.com/ID/bundle.js:1:2090873
+s@https://webchunk.stockbit.com/ID/bundle.js:1:249780
+r@https://webchunk.stockbit.com/ID/bundle.js:1:1193516
+enqueueSetState@https://webchunk.stockbit.com/ID/bundle.js:1:1195971
+r.prototype.setState@https://webchunk.stockbit.com/ID/bundle.js:1:1346608
+u/</g</p.prototype.handleChange@https://webchunk.stockbit.com/ID/bundle.js:1:2669475
+f@https://webchunk.stockbit.com/ID/bundle.js:1:1609395
+a/</</<@https://webchunk.stockbit.com/ID/bundle.js:1:2340038
+r/</</<@https://webchunk.stockbit.com/ID/bundle.js:1:2549149
+dispatch@https://webchunk.stockbit.com/ID/bundle.js:1:2548694
+s/</<@https://webchunk.stockbit.com/ID/bundle.js:1:1772193
+i@https://webchunk.stockbit.com/ID/bundle.js:1:195566
+[22]</n.exports/o.prototype._settlePromiseFromHandler@https://webchunk.stockbit.com/ID/bundle.js:1:168972
+[22]</n.exports/o.prototype._settlePromise@https://webchunk.stockbit.com/ID/bundle.js:1:169772
+[22]</n.exports/o.prototype._settlePromise0@https://webchunk.stockbit.com/ID/bundle.js:1:170471
+[22]</n.exports/o.prototype._settlePromises@https://webchunk.stockbit.com/ID/bundle.js:1:171798
+[2]</a.prototype._drainQueue@https://webchunk.stockbit.com/ID/bundle.js:1:125766
+[2]</a.prototype._drainQueues@https://webchunk.stockbit.com/ID/bundle.js:1:125827
+a/this.drainQueues@https://webchunk.stockbit.com/ID/bundle.js:1:123960
+[29]</i</</r<@https://webchunk.stockbit.com/ID/bundle.js:1:185355
+
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript warning: https://cdn.zarget.com/144446/337134.js, line 3: unreachable code after return statement
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+JavaScript warning: https://cdn.zarget.com/144446/337134.js, line 3: unreachable code after return statement
+JavaScript error: https://stockbit.com/assets/js/primus.min.js, line 1: Error: INVALID_STATE_ERR
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+JavaScript error: https://webchunk.stockbit.com/ID/bundle.js, line 1: TypeError: t is undefined
+JavaScript error: https://stockbit.com/assets/js/primus.min.js, line 1: Error: INVALID_STATE_ERR
+JavaScript error: https://imasdk.googleapis.com/js/sdkloader/ima3.js, line 514: uncaught exception: AdError 1101: The provided containerElement information: element is invalid.
+JavaScript warning: https://stockbit.com/assets/js/preinit.min.js, line 160: unreachable code after return statement
+1620834619053	Marionette	INFO	Stopped listening on port 54347
+1620834681345	Marionette	INFO	Stopped listening on port 54218
